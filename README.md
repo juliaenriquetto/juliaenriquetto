@@ -16,7 +16,7 @@ function SobreMim(){
   
 
 - ### 📫 How to reach me: 
-   [Instagram](https://www.instagram.com/juliaenriquetto_/) | [Twitter](https://twitter.com/juliaenriquetto) | [Gmail](juliaenriquettodebrito@gmail.com)
+   [Instagram](https://www.instagram.com/juliaenriquetto_/) | [Gmail](juliaenriquettodebrito@gmail.com)
 
 
 <!---
