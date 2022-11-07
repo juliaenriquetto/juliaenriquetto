@@ -1,4 +1,4 @@
- # Hi, I’m Júlia 👋
+ # Hi, I’m Júlia 
 
 
 ## 👤 More about me: 
@@ -8,9 +8,7 @@ function SobreMim(){
   const age = 16;
 }
 ```
-
-
--  ### 🌱 I’m currently learning: 
+-  ### 🚀 Programming Languages and Tools: 
   <div style="display: inline_block"><br>
   <img alt="sql"src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white">
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
@@ -25,10 +23,12 @@ function SobreMim(){
   <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white">
   <img alt="Github" src="http://img.shields.io/badge/-Github-000000?style=flat-square&logo=github&logoColor=FFFFFF">                                      
 </div>
-   
-   
-- ### 📫 How to reach me: 
-   [Instagram](https://www.instagram.com/juliaenriquetto_/) | [Gmail](juliaenriquettodebrito@gmail.com)
+  
+  ---
+  
+   | [📈 Github Profile Stats](https://github.com/juliaenriquetto/github-readme-stats#github-stats-card) | [📓 Github Languages](https://github.com/juliaenriquetto/github-readme-stats#top-languages-card) |
+| :---: | :---: |
+| <img height="180" src="https://github-readme-stats.vercel.app/api?username=juliaenriquetto&show_icons=true&theme=radical" /> | <img height="160" width="480"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliaenriquetto&theme=radical&layout=compact" /> |
 
 
 <!---
