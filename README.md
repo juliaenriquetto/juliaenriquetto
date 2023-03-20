@@ -1,10 +1,10 @@
- # Hi, I’m Júlia 
+ # Hi, I’m Julia 
 
 
 ## 👤 More about me: 
 ```
 function SobreMim(){
-  const name = "Júlia Enriquetto de Brito"; 
+  const name = "Julia Enriquetto de Brito"; 
   const age = 16;
 }
 ```
