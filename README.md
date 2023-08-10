@@ -1,12 +1,4 @@
  # Hi, I’m Julia 
-
-
-## 👤 More about me: 
-```
-function SobreMim(){
-  const name = "Julia Enriquetto de Brito"; 
-  const age = 17;
-}
 ```
 -  ### 🚀 Programming Languages and Tools: 
   <div style="display: inline_block"><br>
