@@ -1,6 +1,5 @@
  # Hi, I’m Julia 
 
--  ### 🚀 Programming Languages and Tools: 
   <div style="display: inline_block"><br>
   <img alt="sql"src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white">
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
